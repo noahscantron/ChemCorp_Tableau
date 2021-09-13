@@ -1,6 +1,6 @@
 # ChemCorp Tableau Storyboard
 
-## Individual Webpage Link
+## GitHub Webpage Link (aka webpage embedded Tableau)
 https://noahscantron.github.io/ChemCorp_Tableau/
 
 ## My Tableau Public Link to Project
